@@ -1,2 +1,0 @@
-[console_scripts]
-rag-index = rag_indexer.cli:main
